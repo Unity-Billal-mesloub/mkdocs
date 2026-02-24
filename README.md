@@ -62,17 +62,17 @@ discussion forums is expected to follow the [PyPA Code of Conduct].
 [codecov-link]: https://codecov.io/github/mkdocs/mkdocs?branch=master
 [pypi-v-image]: https://img.shields.io/pypi/v/mkdocs.svg
 [pypi-v-link]: https://pypi.org/project/mkdocs/
-[GHAction-image]: https://github.com/mkdocs/mkdocs/actions/workflows/ci.yml/badge.svg
-[GHAction-link]: https://github.com/mkdocs/mkdocs/actions/workflows/ci.yml
+[GHAction-image]: https://github.com/Unity-Billal-mesloub/mkdocs/actions/workflows/ci.yml/badge.svg
+[GHAction-link]: https://github.com/Unity-Billal-mesloub/mkdocs/actions/workflows/ci.yml
 <!-- Links -->
 [mkdocs]: https://www.mkdocs.org
-[Issue]: https://github.com/mkdocs/mkdocs/issues
-[Discussions]: https://github.com/mkdocs/mkdocs/discussions
+[Issue]: https://github.com/Unity-Billal-mesloub/mkdocs/issues
+[Discussions]: https://github.com/Unity-Billal-mesloub/mkdocs/discussions
 [Chat room]: https://gitter.im/mkdocs/community
 [release-notes]: https://www.mkdocs.org/about/release-notes/
 [Contributing Guide]: https://www.mkdocs.org/about/contributing/
 [PyPA Code of Conduct]: https://www.pypa.io/en/latest/code-of-conduct/
-[catalog]: https://github.com/mkdocs/catalog
+
 
 ## License
 
